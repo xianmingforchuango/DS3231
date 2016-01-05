@@ -1,0 +1,16 @@
+.\lcd.o: ..\Drivers\LCD1602\Lcd.c
+.\lcd.o: ..\User\stm32f10x_conf.h
+.\lcd.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+.\lcd.o: ..\User\stm32f10x.h
+.\lcd.o: ..\CORE\core_cm3.h
+.\lcd.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\lcd.o: ..\User\system_stm32f10x.h
+.\lcd.o: ..\User\stm32f10x_conf.h
+.\lcd.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\lcd.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\lcd.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+.\lcd.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\lcd.o: ..\STM32F10x_FWLib\inc\misc.h
+.\lcd.o: ..\Drivers\LCD1602\Lcd.h
+.\lcd.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\lcd.o: ..\SYSTEM\sys\sys.h

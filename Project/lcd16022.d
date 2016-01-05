@@ -1,0 +1,17 @@
+.\lcd16022.o: ..\Drivers\LCD1602\Lcd16022.c
+.\lcd16022.o: ..\Drivers\LCD1602\Lcd16022.h
+.\lcd16022.o: ..\User\stm32f10x.h
+.\lcd16022.o: ..\CORE\core_cm3.h
+.\lcd16022.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\lcd16022.o: ..\User\system_stm32f10x.h
+.\lcd16022.o: ..\User\stm32f10x_conf.h
+.\lcd16022.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+.\lcd16022.o: ..\User\stm32f10x.h
+.\lcd16022.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\lcd16022.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\lcd16022.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+.\lcd16022.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\lcd16022.o: ..\STM32F10x_FWLib\inc\misc.h
+.\lcd16022.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\lcd16022.o: ..\SYSTEM\sys\Sys.h
+.\lcd16022.o: ..\SYSTEM\delay\delay.h
